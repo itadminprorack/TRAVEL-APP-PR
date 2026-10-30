@@ -1,0 +1,17 @@
+{
+  "checks": [
+    "Worker submission",
+    "Employee search",
+    "Draft save and resume",
+    "Emergency validation and submission",
+    "Approve and allocate with invalid capacity guard",
+    "Edit allocation",
+    "Traveler itinerary and notifications",
+    "Clarification and rejection",
+    "Demo person creation",
+    "CSV export",
+    "Seven-step guided tour",
+    "Reset and persistence"
+  ],
+  "errors": []
+}

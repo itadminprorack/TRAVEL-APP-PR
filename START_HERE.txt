@@ -1,0 +1,26 @@
+PRORACK MOVE — LOCAL MVP v1.1
+===============================
+
+1) Extract the ZIP to a folder on your Windows laptop.
+2) Open the `prorack-move-mvp` folder in VS Code.
+3) In VS Code terminal, run: npm run dev
+4) Open http://localhost:5173 in Chrome or Edge.
+
+Alternatively, double-click `start-preview.bat` on Windows.
+
+No npm install is required. Node.js 18+ is required.
+
+START THE DEMO:
+Select a demo persona and click Enter demo workspace.
+Click GUIDED TOUR for the 7-step management walkthrough.
+Try Travel Admin > Transport plans > View plan > Edit details;
+then preview/print a sample itinerary (clearly marked DEMO).
+
+Local demo only. Do not enter real employee information.
+No Microsoft, GitHub, Convex, AI booking, or production systems are connected.
+For full instructions read README.md and docs/STAKEHOLDER_DEMO.md.
+
+UI TRANSFORMATION INCLUDED
+Run start-preview.bat from THIS updated workspace for the redesigned UI.
+The older v1.1 source ZIP predates this refresh.
+See UI_CHANGELOG.md and ASSET_MANIFEST.md for the updates and assets.

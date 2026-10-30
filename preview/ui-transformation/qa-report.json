@@ -1,0 +1,999 @@
+{
+  "pages": [
+    {
+      "name": "login",
+      "width": 360
+    },
+    {
+      "name": "role-switcher",
+      "width": 360
+    },
+    {
+      "name": "employee-home",
+      "width": 360
+    },
+    {
+      "name": "employee-requests",
+      "width": 360
+    },
+    {
+      "name": "employee-trips",
+      "width": 360
+    },
+    {
+      "name": "employee-help",
+      "width": 360
+    },
+    {
+      "name": "employee-profile",
+      "width": 360
+    },
+    {
+      "name": "employee-new",
+      "width": 360
+    },
+    {
+      "name": "cancel-confirmation",
+      "width": 360
+    },
+    {
+      "name": "wizard-route",
+      "width": 360
+    },
+    {
+      "name": "wizard-details",
+      "width": 360
+    },
+    {
+      "name": "wizard-review",
+      "width": 360
+    },
+    {
+      "name": "admin-dashboard",
+      "width": 360
+    },
+    {
+      "name": "admin-admin-requests",
+      "width": 360
+    },
+    {
+      "name": "admin-planner",
+      "width": 360
+    },
+    {
+      "name": "admin-allocations",
+      "width": 360
+    },
+    {
+      "name": "admin-people",
+      "width": 360
+    },
+    {
+      "name": "admin-reports",
+      "width": 360
+    },
+    {
+      "name": "admin-settings",
+      "width": 360
+    },
+    {
+      "name": "admin-help",
+      "width": 360
+    },
+    {
+      "name": "admin-new",
+      "width": 360
+    },
+    {
+      "name": "add-person",
+      "width": 360
+    },
+    {
+      "name": "reset-confirmation",
+      "width": 360
+    },
+    {
+      "name": "status-confirmation",
+      "width": 360
+    },
+    {
+      "name": "request-drawer",
+      "width": 360
+    },
+    {
+      "name": "group-confirmation",
+      "width": 360
+    },
+    {
+      "name": "allocation-form",
+      "width": 360
+    },
+    {
+      "name": "transport-plan",
+      "width": 360
+    },
+    {
+      "name": "allocation-edit",
+      "width": 360
+    },
+    {
+      "name": "itinerary",
+      "width": 360
+    },
+    {
+      "name": "notifications",
+      "width": 360
+    },
+    {
+      "name": "guided-tour",
+      "width": 360
+    },
+    {
+      "name": "manager-preferences",
+      "width": 360
+    },
+    {
+      "name": "login",
+      "width": 390
+    },
+    {
+      "name": "role-switcher",
+      "width": 390
+    },
+    {
+      "name": "employee-home",
+      "width": 390
+    },
+    {
+      "name": "employee-requests",
+      "width": 390
+    },
+    {
+      "name": "employee-trips",
+      "width": 390
+    },
+    {
+      "name": "employee-help",
+      "width": 390
+    },
+    {
+      "name": "employee-profile",
+      "width": 390
+    },
+    {
+      "name": "employee-new",
+      "width": 390
+    },
+    {
+      "name": "cancel-confirmation",
+      "width": 390
+    },
+    {
+      "name": "wizard-route",
+      "width": 390
+    },
+    {
+      "name": "wizard-details",
+      "width": 390
+    },
+    {
+      "name": "wizard-review",
+      "width": 390
+    },
+    {
+      "name": "admin-dashboard",
+      "width": 390
+    },
+    {
+      "name": "admin-admin-requests",
+      "width": 390
+    },
+    {
+      "name": "admin-planner",
+      "width": 390
+    },
+    {
+      "name": "admin-allocations",
+      "width": 390
+    },
+    {
+      "name": "admin-people",
+      "width": 390
+    },
+    {
+      "name": "admin-reports",
+      "width": 390
+    },
+    {
+      "name": "admin-settings",
+      "width": 390
+    },
+    {
+      "name": "admin-help",
+      "width": 390
+    },
+    {
+      "name": "admin-new",
+      "width": 390
+    },
+    {
+      "name": "add-person",
+      "width": 390
+    },
+    {
+      "name": "reset-confirmation",
+      "width": 390
+    },
+    {
+      "name": "status-confirmation",
+      "width": 390
+    },
+    {
+      "name": "request-drawer",
+      "width": 390
+    },
+    {
+      "name": "group-confirmation",
+      "width": 390
+    },
+    {
+      "name": "allocation-form",
+      "width": 390
+    },
+    {
+      "name": "transport-plan",
+      "width": 390
+    },
+    {
+      "name": "allocation-edit",
+      "width": 390
+    },
+    {
+      "name": "itinerary",
+      "width": 390
+    },
+    {
+      "name": "notifications",
+      "width": 390
+    },
+    {
+      "name": "guided-tour",
+      "width": 390
+    },
+    {
+      "name": "manager-preferences",
+      "width": 390
+    },
+    {
+      "name": "login",
+      "width": 768
+    },
+    {
+      "name": "role-switcher",
+      "width": 768
+    },
+    {
+      "name": "employee-home",
+      "width": 768
+    },
+    {
+      "name": "employee-requests",
+      "width": 768
+    },
+    {
+      "name": "employee-trips",
+      "width": 768
+    },
+    {
+      "name": "employee-help",
+      "width": 768
+    },
+    {
+      "name": "employee-profile",
+      "width": 768
+    },
+    {
+      "name": "employee-new",
+      "width": 768
+    },
+    {
+      "name": "cancel-confirmation",
+      "width": 768
+    },
+    {
+      "name": "wizard-route",
+      "width": 768
+    },
+    {
+      "name": "wizard-details",
+      "width": 768
+    },
+    {
+      "name": "wizard-review",
+      "width": 768
+    },
+    {
+      "name": "admin-dashboard",
+      "width": 768
+    },
+    {
+      "name": "admin-admin-requests",
+      "width": 768
+    },
+    {
+      "name": "admin-planner",
+      "width": 768
+    },
+    {
+      "name": "admin-allocations",
+      "width": 768
+    },
+    {
+      "name": "admin-people",
+      "width": 768
+    },
+    {
+      "name": "admin-reports",
+      "width": 768
+    },
+    {
+      "name": "admin-settings",
+      "width": 768
+    },
+    {
+      "name": "admin-help",
+      "width": 768
+    },
+    {
+      "name": "admin-new",
+      "width": 768
+    },
+    {
+      "name": "add-person",
+      "width": 768
+    },
+    {
+      "name": "reset-confirmation",
+      "width": 768
+    },
+    {
+      "name": "status-confirmation",
+      "width": 768
+    },
+    {
+      "name": "request-drawer",
+      "width": 768
+    },
+    {
+      "name": "group-confirmation",
+      "width": 768
+    },
+    {
+      "name": "allocation-form",
+      "width": 768
+    },
+    {
+      "name": "transport-plan",
+      "width": 768
+    },
+    {
+      "name": "allocation-edit",
+      "width": 768
+    },
+    {
+      "name": "itinerary",
+      "width": 768
+    },
+    {
+      "name": "notifications",
+      "width": 768
+    },
+    {
+      "name": "guided-tour",
+      "width": 768
+    },
+    {
+      "name": "manager-preferences",
+      "width": 768
+    },
+    {
+      "name": "login",
+      "width": 1024
+    },
+    {
+      "name": "role-switcher",
+      "width": 1024
+    },
+    {
+      "name": "employee-home",
+      "width": 1024
+    },
+    {
+      "name": "employee-requests",
+      "width": 1024
+    },
+    {
+      "name": "employee-trips",
+      "width": 1024
+    },
+    {
+      "name": "employee-help",
+      "width": 1024
+    },
+    {
+      "name": "employee-profile",
+      "width": 1024
+    },
+    {
+      "name": "employee-new",
+      "width": 1024
+    },
+    {
+      "name": "cancel-confirmation",
+      "width": 1024
+    },
+    {
+      "name": "wizard-route",
+      "width": 1024
+    },
+    {
+      "name": "wizard-details",
+      "width": 1024
+    },
+    {
+      "name": "wizard-review",
+      "width": 1024
+    },
+    {
+      "name": "admin-dashboard",
+      "width": 1024
+    },
+    {
+      "name": "admin-admin-requests",
+      "width": 1024
+    },
+    {
+      "name": "admin-planner",
+      "width": 1024
+    },
+    {
+      "name": "admin-allocations",
+      "width": 1024
+    },
+    {
+      "name": "admin-people",
+      "width": 1024
+    },
+    {
+      "name": "admin-reports",
+      "width": 1024
+    },
+    {
+      "name": "admin-settings",
+      "width": 1024
+    },
+    {
+      "name": "admin-help",
+      "width": 1024
+    },
+    {
+      "name": "admin-new",
+      "width": 1024
+    },
+    {
+      "name": "add-person",
+      "width": 1024
+    },
+    {
+      "name": "reset-confirmation",
+      "width": 1024
+    },
+    {
+      "name": "status-confirmation",
+      "width": 1024
+    },
+    {
+      "name": "request-drawer",
+      "width": 1024
+    },
+    {
+      "name": "group-confirmation",
+      "width": 1024
+    },
+    {
+      "name": "allocation-form",
+      "width": 1024
+    },
+    {
+      "name": "transport-plan",
+      "width": 1024
+    },
+    {
+      "name": "allocation-edit",
+      "width": 1024
+    },
+    {
+      "name": "itinerary",
+      "width": 1024
+    },
+    {
+      "name": "notifications",
+      "width": 1024
+    },
+    {
+      "name": "guided-tour",
+      "width": 1024
+    },
+    {
+      "name": "manager-preferences",
+      "width": 1024
+    },
+    {
+      "name": "login",
+      "width": 1440
+    },
+    {
+      "name": "role-switcher",
+      "width": 1440
+    },
+    {
+      "name": "employee-home",
+      "width": 1440
+    },
+    {
+      "name": "employee-requests",
+      "width": 1440
+    },
+    {
+      "name": "employee-trips",
+      "width": 1440
+    },
+    {
+      "name": "employee-help",
+      "width": 1440
+    },
+    {
+      "name": "employee-profile",
+      "width": 1440
+    },
+    {
+      "name": "employee-new",
+      "width": 1440
+    },
+    {
+      "name": "cancel-confirmation",
+      "width": 1440
+    },
+    {
+      "name": "wizard-route",
+      "width": 1440
+    },
+    {
+      "name": "wizard-details",
+      "width": 1440
+    },
+    {
+      "name": "wizard-review",
+      "width": 1440
+    },
+    {
+      "name": "admin-dashboard",
+      "width": 1440
+    },
+    {
+      "name": "admin-admin-requests",
+      "width": 1440
+    },
+    {
+      "name": "admin-planner",
+      "width": 1440
+    },
+    {
+      "name": "admin-allocations",
+      "width": 1440
+    },
+    {
+      "name": "admin-people",
+      "width": 1440
+    },
+    {
+      "name": "admin-reports",
+      "width": 1440
+    },
+    {
+      "name": "admin-settings",
+      "width": 1440
+    },
+    {
+      "name": "admin-help",
+      "width": 1440
+    },
+    {
+      "name": "admin-new",
+      "width": 1440
+    },
+    {
+      "name": "add-person",
+      "width": 1440
+    },
+    {
+      "name": "reset-confirmation",
+      "width": 1440
+    },
+    {
+      "name": "status-confirmation",
+      "width": 1440
+    },
+    {
+      "name": "request-drawer",
+      "width": 1440
+    },
+    {
+      "name": "group-confirmation",
+      "width": 1440
+    },
+    {
+      "name": "allocation-form",
+      "width": 1440
+    },
+    {
+      "name": "transport-plan",
+      "width": 1440
+    },
+    {
+      "name": "allocation-edit",
+      "width": 1440
+    },
+    {
+      "name": "itinerary",
+      "width": 1440
+    },
+    {
+      "name": "notifications",
+      "width": 1440
+    },
+    {
+      "name": "guided-tour",
+      "width": 1440
+    },
+    {
+      "name": "manager-preferences",
+      "width": 1440
+    }
+  ],
+  "accessibility": [
+    {
+      "name": "login",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "role-switcher",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "employee-home",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "employee-requests",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "employee-trips",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "employee-help",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "employee-profile",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "employee-new",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "cancel-confirmation",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "wizard-route",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "wizard-details",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "wizard-review",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-dashboard",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-admin-requests",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-planner",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-allocations",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-people",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-reports",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-settings",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-help",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "admin-new",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "add-person",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "reset-confirmation",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "status-confirmation",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "request-drawer",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "group-confirmation",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "allocation-form",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "transport-plan",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "allocation-edit",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "itinerary",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "notifications",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "guided-tour",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "manager-preferences",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "name": "login",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "role-switcher",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "employee-home",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "employee-requests",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "employee-trips",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "employee-help",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "employee-profile",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "employee-new",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "cancel-confirmation",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "wizard-route",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "wizard-details",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "wizard-review",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-dashboard",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-admin-requests",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-planner",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-allocations",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-people",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-reports",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-settings",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-help",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "admin-new",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "add-person",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "reset-confirmation",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "status-confirmation",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "request-drawer",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "group-confirmation",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "allocation-form",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "transport-plan",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "allocation-edit",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "itinerary",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "notifications",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "guided-tour",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "name": "manager-preferences",
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "brokenImages": [],
+  "overflows": []
+}

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env*
+!.env.example
+*.log
+.DS_Store
+.vscode/
+coverage/
+backups/
+output/
+.claude-flow/
+.swarm/
+*.zip
+*.pem
+*.key
