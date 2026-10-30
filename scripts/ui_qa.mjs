@@ -52,7 +52,7 @@ try{
   // Complete each wizard screen using the real delegated UI handlers.
   await click('[data-action="next-step"]');await check('wizard-route',width,{axe:width===390||width===1440});
   await page.locator('[name="origin"]').fill('Kothur');await page.locator('[name="destination"]').fill('ProRack Kothur Plant');
-  await page.locator('[name="departDate"]').fill(dateOffset(2));await page.locator('[data-time-field="departTime"] [data-time-part="hour"]').selectOption('08');await page.locator('[data-time-field="departTime"] [data-time-part="minute"]').selectOption('00');await page.locator('[data-time-field="departTime"] [data-time-part="period"]').selectOption('AM');
+  await page.locator('[name="departDate"]').fill(dateOffset(2));await page.locator('[data-time-field="departTime"] [data-open-time]').click();await page.locator('.clock-confirm').click();
   await click('[data-action="next-step"]');assert.equal(await page.locator('.manager-preference').count(),0);
   await check('wizard-details',width,{axe:width===390||width===1440});await click('[data-action="next-step"]');await check('wizard-review',width,{axe:width===390||width===1440});
   await persona('usr-admin');

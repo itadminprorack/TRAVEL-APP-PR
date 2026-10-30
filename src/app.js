@@ -1,3 +1,4 @@
+import {initTimePicker} from './time-picker.js';
 import { buildSeed } from './data.js';
 import { dateOffset, niceDate, shortDate, esc, canRequestMode, MODES, PURPOSES, getSuggestions, totalPeople, validateRequest, validateCapacity, key, formatTime, validateJourneyTiming } from './logic.js';
 import { loadDB, saveDB, resetDB, loadSession, saveSession, addRequest, addDraft, appendEvent, updateStatus, cancelOwnRequest, createPlan, updatePlan, completePlan, addPerson, markRead } from './store.js';
@@ -248,6 +249,7 @@ function safeHandle(action,el){
   default:return;
  }
 }
+initTimePicker();
 let eventTargetRoot=null;
 document.addEventListener('click',event=>{
  const nav=event.target.closest('[data-nav]');if(nav){go(nav.dataset.nav);return;}

@@ -1,0 +1,14 @@
+[
+  {
+    "width": 360,
+    "checks": "dial selection, AM/PM, exact minutes, midnight, cancel, clear, invalid entry, focus, axe"
+  },
+  {
+    "width": 390,
+    "checks": "dial selection, AM/PM, exact minutes, midnight, cancel, clear, invalid entry, focus, axe"
+  },
+  {
+    "width": 1440,
+    "checks": "dial selection, AM/PM, exact minutes, midnight, cancel, clear, invalid entry, focus, axe"
+  }
+]

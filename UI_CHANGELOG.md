@@ -69,3 +69,7 @@ Verified after integration: 14 unit tests, browserless travel-flow QA, all 12 br
 - Added optional required-arrival date and time to travel requests, review, request details, allocation summaries, itineraries and CSV exports. A time-only deadline uses the departure date.
 - Departure, return and allocation times use hour/minute selectors with explicit AM/PM choices. Internal times retain HH:mm storage for compatibility.
 - Rejects invalid dates, partial times and deadlines before departure; supports overnight arrival.
+
+## Clock-style time picker
+
+All departure, arrival, return and allocation time fields now open a shared blue clock dialog with large hour/minute inputs, an analog dial, AM/PM buttons, Cancel and OK. Optional fields also offer Clear. Exact minutes can be typed; Escape cancels without saving. Native modal focus handling supports use within Admin allocation dialogs. Canonical HH:mm storage is preserved.

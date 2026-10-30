@@ -9,7 +9,7 @@ const context=await browser.newContext({viewport:{width:1440,height:1000},reduce
 const page=await context.newPage(),errors=[],checks=[];
 page.on('pageerror',error=>errors.push(error.message));
 const click=selector=>page.locator(selector).first().click();
-async function setTime(name,value){const [h,m]=value.split(':');const root=page.locator(`[data-time-field="${name}"]`);await root.locator('[data-time-part="hour"]').selectOption(String(Number(h)%12||12).padStart(2,'0'));await root.locator('[data-time-part="minute"]').selectOption(m);await root.locator('[data-time-part="period"]').selectOption(Number(h)>=12?'PM':'AM');}
+async function setTime(name,value){const [h,m]=value.split(':');await page.locator(`[data-time-field="${name}"] [data-open-time]`).click();await page.locator('.clock-picker [data-clock-part="hour"]').fill(String(Number(h)%12||12));await page.locator('.clock-picker [data-clock-part="minute"]').fill(m);await page.locator(`.clock-picker [data-period="${Number(h)>=12?'PM':'AM'}"]`).click();await page.locator('.clock-confirm').click();}
 const field=async(name,value)=>await page.locator(`[data-time-field="${name}"]`).count()?setTime(name,value):page.locator(`[name="${name}"]`).fill(value);
 const db=()=>page.evaluate(()=>JSON.parse(localStorage.getItem('prorack-move-mvp-v2')));
 async function role(id){await click('[data-action="role-menu"]');await click(`[data-action="switch-persona"][data-id="${id}"]`);}
